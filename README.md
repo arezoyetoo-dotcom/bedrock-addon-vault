@@ -1,13 +1,13 @@
 # Minecraft Bedrock Add-on Vault 🎮✨
 
-A curated, modern collection of **13 custom Minecraft Bedrock Edition (.mcaddon)** mods engineered for seamless gameplay on mobile (iOS / Android) and Windows 10/11 Bedrock.
+A curated, modern collection of **14 custom Minecraft Bedrock Edition (.mcaddon)** mods engineered for seamless gameplay on mobile (iOS / Android) and Windows 10/11 Bedrock.
 
 🌐 **Live Showcase Portal:** [https://arezoyetoo-dotcom.github.io/bedrock-addon-vault/](https://arezoyetoo-dotcom.github.io/bedrock-addon-vault/)  
 ☁️ **Google Drive Vault:** [Direct Add-on Downloads](https://drive.google.com/open?id=1PJOXjUW2TKa13jNehMDF2yIin0sRPnI7)
 
 ---
 
-## 📦 Featured Add-ons (13/13)
+## 📦 Featured Add-ons (14/14)
 
 | # | Add-on | Category | Description | Direct Download |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@ A curated, modern collection of **13 custom Minecraft Bedrock Edition (.mcaddon)
 | 11 | **All-Level Ores** | Mining | Smooth ore generation distribution across all subterranean depth levels. | [Download](downloads/all-level-ores.mcaddon) |
 | 12 | **Fire Gauntlet** | Combat | Combative weapon infusing melee strikes with fiery burst waves. | [Download](downloads/fire-gauntlet.mcaddon) |
 | 13 | **Missile Potion** | Combat | Throwable potion projectile launching guided explosive trajectory. | [Download](downloads/missile-potion.mcaddon) |
+| 14 | **Assassination Enchant** | Combat | Legendary sword enchant; +0.1 permanent speed and +2 hearts heal per kill. | [Download](downloads/assasination.mcaddon) |
 
 ---
 
@@ -42,6 +43,7 @@ A curated, modern collection of **13 custom Minecraft Bedrock Edition (.mcaddon)
 ## 🎨 Showcase Portal Features
 
 - **Daylight Aesthetic:** Crisp, modern, clean daylight color palette (WCAG AAA contrast).
-- **Embedded Custom Sprites:** Transparent, pixel-perfect icons for custom items (Torcher, Craftsmith).
+- **Embedded Custom Sprites:** Transparent, pixel-perfect icons for custom items (Torcher, Craftsmith, Assassination).
 - **Instant Search & Category Pills:** Real-time filtering by keyword and category (QoL, Automation & Mining, Combat & Weapons, World & Farming).
 - **1-Tap Direct Downloads:** Instant download button plus 1-tap clipboard link copy.
+
