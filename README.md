@@ -19,7 +19,7 @@ A curated, modern collection of **14 custom Minecraft Bedrock Edition (.mcaddon)
 | 6 | **Builder's Wand** | Building | Extends faces of blocks instantly for rapid architectural builds. | [Download](downloads/builders-wand.mcaddon) |
 | 7 | **Durability Viewer** | QoL | Real-time tool and armor durability inspection on HUD. | [Download](downloads/durability-viewer.mcaddon) |
 | 8 | **Auto-Replant** | Farming | Automatically harvests and replants mature crops upon right-click/punch. | [Download](downloads/auto-replant.mcaddon) |
-| 9 | **Hyper-Growth** | Farming | Accelerates crop and sapling growth naturally. | [Download](downloads/hyper-growth.mcaddon) |
+| 9 | **Hyper-Growth (Insta-Growth)** | Farming | Accelerates crop & sapling growth by 10x & instantly matures baby animals. | [.mcaddon](downloads/hyper-growth.mcaddon) · [.mcpack](downloads/hyper-growth.mcpack) |
 | 10 | **Grace Period** | Combat | Configurable PvP and mob protection grace period timer upon spawn. | [Download](downloads/grace-period.mcaddon) |
 | 11 | **All-Level Ores** | Mining | Smooth ore generation distribution across all subterranean depth levels. | [Download](downloads/all-level-ores.mcaddon) |
 | 12 | **Fire Gauntlet** | Combat | Combative weapon infusing melee strikes with fiery burst waves. | [Download](downloads/fire-gauntlet.mcaddon) |
